@@ -17,7 +17,7 @@
 <!-- Content -->
 - 🔭 I’m currently working on [CarGo](https://github.com/danyalnemati8/CarGo)
 
-- 🌱 I’m currently pursuing **B.S. in Computer Science at CSUF**
+- 🌱 I’m currently pursuing **M.S. in Computer Science at CSUF**
 
 - 👨‍💻 All of my projects are available at [https://danyalnemati8.github.io/newjs/](https://danyalnemati8.github.io/newjs/)
 
